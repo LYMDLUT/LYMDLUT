@@ -2,4 +2,4 @@
 - 🔭 I’m interested in Adversarial Defense, Diffusion, Object Detection(DETR series) and Multimodal Model.
 - 🌱 I’m currently a master student at [SYSU HCP Lab](https://www.sysu-hcp.net/) supervised by Prof. [Liang Lin](https://www.sysu-hcp.net/faculty/lianglin.html).
 - 💞️ I've been an active contributor to [MMDetection](https://github.com/open-mmlab/mmdetection/tree/refactor-detr), collaborated with [Shilong Zhang](https://jshilong.github.io/), and given a talk at the [Community open mic](https://www.bilibili.com/video/BV17x4y1w7ZK/?spm_id_from=333.337.search-card.all.click).
-- 🤔 I am seeking an internship opportunity.
+- 🤔 I am seeking an VLM internship opportunity.
