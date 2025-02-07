@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LYM (刘祎铭)
+- 👋 Hi, I’m LYM (刘祎铭).
 - 🔭 I’m interested in RLHF, Adversarial Defense, Diffusion, and VLM.
 - 🌱 I’m currently a master student at [SYSU HCP Lab](https://www.sysu-hcp.net/) supervised by Prof. [Liang Lin](https://www.sysu-hcp.net/faculty/lianglin.html).
 - 💞️ My ICLR2025 paper "Towards Understanding the Robustness of Diffusion-Based Purification: A Stochastic Perspective" has been accepted, collaborated with @Buntender!
