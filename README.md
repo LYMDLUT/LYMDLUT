@@ -3,5 +3,5 @@
 - 🌱 I used to be a master student at [SYSU HCP Lab](https://www.sysu-hcp.net/) supervised by Prof. [Liang Lin](https://www.sysu-hcp.net/faculty/lianglin.html).
 - 💞️ I am an activate contributor to [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF). My paper [Rethinking KL Regularization in RLHF: From Value Estimation to Gradient Optimization](https://arxiv.org/abs/2510.01555) has been used by Reinforce++、ProRL、BroRL for long-stable RL scaling!
 - 💞️ My ICLR2025 paper ["Towards Understanding the Robustness of Diffusion-Based Purification: A Stochastic Perspective"](https://openreview.net/forum?id=shqjOIK3SA) has been accepted, collaborated with @Buntender!
-- 💞️ I've been a contributor to [MMDetection](https://github.com/open-mmlab/mmdetection/tree/refactor-detr), collaborated with [Shilong Zhang](https://jshilong.github.io/), and given a talk at the [Community open mic](https://www.bilibili.com/video/BV17x4y1w7ZK/?spm_id_from=333.337.search-card.all.click).
+- 💞️ I used to be a main contributor to [MMDetection](https://github.com/open-mmlab/mmdetection/tree/refactor-detr), collaborated with [Shilong Zhang](https://jshilong.github.io/), and given a talk at the [Community open mic](https://www.bilibili.com/video/BV17x4y1w7ZK/?spm_id_from=333.337.search-card.all.click).
 - 🤔 You can contact me via email: letusgo126@gmail.com. 
